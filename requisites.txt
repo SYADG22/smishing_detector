@@ -1,0 +1,6 @@
+pip install flask
+pip install scikit-learn
+
+
+pip install Flask Flask-SQLAlchem 
+pip install mysql-connector-python
